@@ -1,0 +1,2486 @@
+body{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+}
+body{
+    font-size: 17px;
+    line-height: 1.47;
+    color: #1d1d1f;
+    font-style: normal;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+@media screen and (max-width: 1023px) and (max-device-width: 736px){
+    
+}
+.rs-storehome .rs-shop-container.rs-shop-container-withchatandstore {
+    min-height: 248px;
+}
+.rs-shop-container {
+    position: relative;
+    min-height: 196px;
+}
+.as-l-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px !important;
+}
+.rs-shop-container.rs-shop-container-withchatandstore {
+    min-height: 228px;
+}
+.rs-shop-header-section {
+    max-width: 640px;
+    padding: 80px 0 64px;
+}
+.large-8 {
+    flex-basis: 66.66667%;
+    max-width: 66.66667%;
+}
+.rs-shop-header, .rs-shop-subheader {
+    font-size: 48px;
+    line-height: 1.08349;
+    font-weight: 600;
+    letter-spacing: -.003em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: inline;
+}
+.rs-shop-header-section .rs-shop-subheader {
+    color: #6e6e73;
+}
+.rs-shop-container .rs-shop-chatstore-section {
+    position: absolute;
+    right: 0;
+}
+
+.rs-shop-chatstore-section {
+    padding-bottom: 54px;
+}
+.rs-shop-chatstore-section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    padding: 90px 0 74px;
+}
+.rf-shop-chat-title {
+    font-weight: 600;
+    padding-top: 0;
+}
+.rf-shop-chat-content {
+    display: block;
+}
+
+.as-buttonlink {
+    background: transparent;
+    border: 0;
+    color: #06c;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    padding: 0;
+    vertical-align: inherit;
+    cursor: pointer;
+}
+.rs-shop-neareststore .as-svgicon-container {
+    width: 36px;
+    height: 36px;
+}
+.rs-shop-neareststore-title {
+    font-weight: 600;
+    padding-top: 0;
+}
+.rs-shop-neareststore-content {
+    display: block;
+}
+.rs-shop-neareststore {
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    -webkit-text-size-adjust: none;
+}
+.rs-shop-header, .rs-shop-subheader {
+    font-size: 48px;
+    line-height: 1.08349;
+    font-weight: 600;
+    letter-spacing: -.003em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: inline;
+}
+.rf-shop-chat-section {
+    font-size: 14px;
+    line-height: 1.42859;
+    font-weight: 400;
+    letter-spacing: -.016em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 16px;
+    -webkit-text-size-adjust: none;
+}
+.rf-shop-chat-section .rf-shop-chaticon-container {
+    width: 36px;
+    height: 36px;
+    padding-right: 8px;
+}
+.large-4 {
+    flex-basis: 33.33333%;
+    max-width: 33.33333%;
+}
+.chapternav-item-mac .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v1.png");
+}
+.chapternav-item-mac1 .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("");
+}
+.chapternav-item-iPhone .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v2.png");
+}
+.chapternav-item-iPad .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v3.png");
+}
+.chapternav-item-AppleWatch .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v4.png");
+}
+.chapternav-item-AirPods .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v5.png");
+}
+.chapternav-item-AirTag .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v6.png");
+}
+.chapternav-item-AppleTV .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v7.png");
+}
+.chapternav-item-HomePodmini .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v8.png");
+}
+.chapternav-item-Accessories .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v9.png");
+}
+.chapternav-item-AppleGiftCard .chapternav-icon{
+    width: 120px;
+    height: 78px;
+    background-size: 120px 78px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-store/v10.png");
+}
+
+.chapternav-item-macbook-air .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image: url("https://www.apple.com/v/mac/home/bp/images/familybrowser/macbookair_light__f0o95rwae8ae_large.svg");
+}
+.chapternav-item-macbook-pro .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image: url("https://www.apple.com/v/mac/home/bp/images/familybrowser/macbook_pro_light__e791sjqzt32a_large.svg");
+}
+.chapternav-item-imac-24 .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image: url("https://www.apple.com/v/mac/home/bp/images/familybrowser/imac_24_light__colyztscbeeu_large.svg")
+}
+.chapternav-item-mac-mini .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/mac_mini_light__frtahmzmd4mm_large.svg")
+}
+.chapternav-item-mac-studio .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/mac_studio_light__ea3pb1auizu6_large.svg")
+}
+.chapternav-item-mac-pro .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/mac_pro_light__cj4dvg7thx5y_large.svg")
+}
+.chapternav-item-compare .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/mac_compare_light__emml1umdv9m6_large.svg")
+}
+.chapternav-item-displays .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/displays_light__ewxqx5obdxci_large.svg")
+}
+.chapternav-item-accessories .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/mac_accessories_light__cuds10wyptyu_large.svg")
+}
+.chapternav-item-macos .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/mac_os_light__d0zczt34scq6_large.svg")
+}
+.chapternav-item-shop .chapternav-icon{
+    width: 80px;
+    height: 54px;
+    background-size: 80px 54px;
+    background-repeat: no-repeat;
+    background-image:url("https://www.apple.com/v/mac/home/bp/images/familybrowser/mac_shop_light__layuggud1xe2_large.svg")
+}   
+.chapternav{
+    
+    padding: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    height: 110px;
+   
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.chapternav-wrapper{
+    position: relative;
+    height: 100%;
+    z-index: 1;
+}
+@supports (margin: calc(max(0px)))
+{
+    .chapternav-items {
+        margin: 0calc(max(env(safe-area-inset-left) + 24px, 34px)); 
+    }
+}
+.chapternav-items{
+    margin: 0 34px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none;
+    list-style: none;
+    padding-bottom: 50px;
+}
+ul{
+    padding: 0;
+}
+li{
+    margin: 0;
+    padding: 0;
+}
+.chapternav-item:first-child{
+    margin-left: 0;
+    padding-left: 4px;
+}
+.chapternav-item{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 -0.11765em;
+    padding: 0 20px;
+}
+a{
+    text-decoration: none !important;
+}
+.chapternav-link{
+    color: #1d1d1f;
+    display: block;
+    padding: 0;
+    margin-top: 3px;
+    position: relative;
+    z-index: 888;
+}
+.chapternav-icon{
+    margin-bottom: 4px;
+    background: center bottom no-repeat;
+    display: block;
+    margin: 0 auto 7px;
+    height: 54px;
+}
+figure{
+    margin: 0;
+    padding: 0;
+}
+.chapternav-label{
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    display: block;
+    margin: 0;
+}
+.chapternav-label:hover{
+    color: rgb(28, 148, 252);
+}
+.chapternav-paddle:disabled{
+    opacity: 0;
+}
+button:disabled {
+    cursor: default;
+}
+button{
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: 0;
+    box-sizing: content-box;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    line-height: inherit;
+    overflow: visible;
+    vertical-align: inherit;
+}
+.chapternav-paddle-left{
+    border-right-width: 1px;
+    left: 0;
+}
+.chapternav-paddle{
+    font-size: 17px;
+    line-height: 1.76471;
+    font-weight: 300;
+    letter-spacing: 0em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    border: 0 solid #d2d2d7;
+    border-radius: 0;
+    color: #1d1d1f;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+    width: 33px;
+    transition: opacity 150ms ease-out;
+}
+.chapternav-paddle-right{
+   
+    right: 0;
+}
+@media only screen and (max-width: 767px){
+   
+    
+
+
+
+}
+.section-hero-product{
+    padding: 60px 0;
+    border-bottom: 10px solid #f5f5f7;
+    
+}
+.section{
+    display: block;
+}
+.section-hero-product .section-content{
+    align-items: center;
+    text-align: center;
+}
+.section-content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+.large-centered{
+    margin-left: auto;
+    margin-right: auto;
+}
+.large-7{
+    flex-basis: 58.33333%;
+    max-width: 58.33333%;
+}
+h2{
+    font-weight: 600;
+    color: #1d1d1f;
+    margin: 0;
+    padding: 0;
+}
+.typography-hero-product-headline{
+    font-size: 56px;
+    line-height: 1.07;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-hero-product .section-content .product-wrapper .hero-copy{
+    margin-top: 0;
+}
+.typography-eyebrow-elevated{
+    font-size: 28px;
+    line-height: 1.4;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-hero-product .section-content .product-wrapper .hero-pricing .hero-price{
+    margin-top: 1.35em;
+}
+.typography-body{
+    font-size: 17px;
+    line-height: 1.47;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-hero-product .section-content .product-wrapper .cta-links{
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+}
+.section-hero-product .section-content .product-wrapper .cta-links .link-container{
+    display: inline-block;
+    margin: 0 10px;
+}
+.typography-hero-product-link{
+    font-size: 21px;
+    line-height: 1.38;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.button{
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    font-size: 17px;
+    white-space: nowrap;
+    line-height: 1.17648;
+    font-weight: 400;
+    min-width: 28px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 980px;
+    background: #0071e3;
+    color: #fff;
+}
+.section-hero-product .section-content .product-wrapper .available .macbook-air-avail{
+    color: #86868b;
+}
+.section-hero-product .section-content .product-wrapper .available{
+    margin-top: 0.5em !important;
+}
+.large-7{
+    flex-basis: 100%;
+    max-width: 100%;
+}
+.large-12{
+    flex-basis: 100%;
+    max-width: 100%;
+}
+.section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-air-image{
+    width: 483px;
+    height: 369px;
+    background-size: 483px 369px;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 50%;
+    margin-left: -241.5px;
+    margin-top: 45px;
+    background-image: url("https://www.apple.com/v/mac/home/bp/images/overview/hero/macbook_air_m2__r1jrymq4ftea_large.jpg") ;
+}
+a{
+    color: #06c;
+}
+@media screen and (max-width: 734px){
+    .rs-storehome .rs-shop-container.rs-shop-container-withchatandstore{
+        min-height: auto !important;
+    }
+    .rs-shop-header-section{
+        padding-top: 56px !important;
+        padding-bottom: 24px !important;
+    }
+    .small-12{
+        flex-basis: 100% !important;
+        max-width: 100% !important;
+    }
+    .rs-shop-header, .rs-shop-subheader{
+        font-size: 32px !important;
+        line-height: 1.25 !important;
+        font-weight: 600 !important;
+    }
+    .as-l-container{
+        margin-left: auto !important;
+        margin-right: auto !important;
+        
+        width: 87.5% !important;
+    }
+    .rs-shop-container .rs-shop-chatstore-section{
+        position:relative !important;
+        padding-bottom: 28px !important;
+    }
+    .rs-shop-chatstore-section{
+        align-content: flex-start !important;
+        padding-top: 0 !important;
+    }
+
+
+    .chapternav-item-mac1 .chapternav-icon{
+        display: none;
+    }
+    .section-hero-product{
+        padding: 60px 0 50px;
+        
+    }
+    .section-content{
+        margin-left: auto;
+        margin-right: auto;
+        width: 87.5%;
+        
+    }
+    .small-12{
+        flex-basis: 100% !important;
+        max-width: 100% !important;
+    }
+    .typography-hero-product-headline{
+        font-size: 40px;
+        line-height: 1.1;
+        font-weight: 600;
+        font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    }
+    .section-hero-product .section-content .product-wrapper .hero-copy{
+        max-width: 310px;
+        margin: 0 auto;
+    }
+    .section-hero-product .section-content .product-wrapper .hero-pricing .hero-price{
+        margin-top: 0.7em;
+    }
+    .section-hero-product .section-content .product-wrapper .cta-links{
+        margin-top: 0.9em;
+    }
+    .section-hero-product .section-content .product-wrapper .cta-links .link-container{
+        margin: 0 7px;
+    }
+    .section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-air-image{
+        margin-top: 25px;
+        
+    }
+    .section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-air-image {
+        left: 50%;
+        margin-left: -121.5px;
+    }
+    .section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-air-image{
+        width: 243px;
+        height: 185px;
+        background-size: 243px 185px;
+        background-repeat: no-repeat;
+        background-image:url("https://www.apple.com/v/mac/home/bp/images/overview/hero/macbook_air_m2__r1jrymq4ftea_small.jpg") ;
+    }
+
+    
+    .section-hero-product.theme-dark{
+        padding-top: 25px;
+    }
+    .section-hero-product{
+        padding: 60px 0 50px;
+    }
+    .section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-pro-image{
+        width: 458px !important;
+        height: 200px !important;
+       
+        background-size: 458px 200px !important;
+        background-repeat: no-repeat ;
+        background-image: url("https://www.apple.com/v/mac/home/bp/images/overview/hero/macbook_pro_13__e3r46kd69eoi_small.jpg") !important;
+    }
+    .section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-pro-image{
+        
+        left: 50%;
+        margin-left: -229px !important;
+    }
+    .section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-pro-image{
+        margin-top: 7px;
+       
+    }
+    .section-compare{
+        padding-top: 84px;
+    }
+
+    .section-compare .section-content{
+        width: 87.5%;
+    }
+    .section-content{
+        margin-left: auto;
+        margin-right: auto;
+        width: 87.5%;
+    }
+    .typography-headline{
+        font-size: 32px;
+        line-height: 1.125;
+        font-weight: 600;
+        font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    }
+    .section-compare .gallery{
+        margin-top: 51px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item.notebooks .compare-table{
+        margin-top: 37px !important;
+        grid-row-gap: 28px !important;
+        grid-column-gap:10px !important;
+        max-width: 300px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .links{
+        margin-top: -17px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell{
+        width: 100% !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.display{
+        padding-top: 7px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.chip{
+        padding-top: 8px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.gpu, .section-compare .gallery .item-container .gallery-item .cell.cpu {
+        padding-top: 15px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.memory{
+        width: 55% !important;
+        padding-top: 8px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.storage{
+        width: 58% !important;
+        padding-top: 0 !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.weight{
+        padding-top: 2px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.keyboard{
+        padding-top: 5px !important;
+        padding-bottom: 35px !important;
+    }
+    
+
+    .section-compare .gallery .item-container .gallery-item .device .image-wrapper{
+        margin-bottom: 5px !important;
+    }
+    .section-compare .image-compare-mba{
+        width: 101px !important;
+        height: 60px !important;
+        background-size: 101px 60px !important;
+        background-repeat: no-repeat !important;
+        
+    }
+    .section-compare .gallery .item-container .gallery-item .device .device-content .image-swatches{
+        margin-top: 7px !important;
+        margin-bottom: 28px !important;
+    }
+    .typography-compare-eyebrow{
+        font-size: 17px !important;
+        line-height: 1.47 !important;
+        font-weight: 600 !important;
+        font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    }
+    .section-compare .gallery ,.item-container .gallery-item .device .device-content .pricing{
+        padding-top: 5px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell .size{
+        margin-top: 0 !important;
+        margin-bottom: 6px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.display .column{
+        width: 57% !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .cell.chip .image-icon{
+        margin-bottom: 6px !important;
+    }
+    .section-compare .image-compare-mbam2{
+        width: 98px !important;
+        height: 60px !important;
+        background-size: 98px 60px !important;
+        background-repeat: no-repeat !important;
+        background-image: url("../img/img-mac/v17.png") !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .mbp13.device{
+        margin-top: 77px !important;
+    }
+    .section-compare .gallery .item-container .gallery-item .mbp14-and-16.device{
+        margin-top: 77px !important;
+    }
+
+
+    .section-compare .image-compare-mbp13{
+        width: 102px !important;
+        height: 60px !important;
+        background-size: 102px 60px !important;
+        background-repeat: no-repeat !important;
+        background-image: url("../img/img-mac/v18.png") !important;
+    }
+    .section-compare .image-compare-mbp14-and-16{
+        width: 130px !important;
+        height:  72px !important;
+        background-size: 130px 72px !important;
+        background-repeat: no-repeat !important;
+        background-image: url("../img/img-mac/v19.png") !important;
+    }
+    .section-compare .gallery .item-container .gallery-item.notebooks .compare-table{
+        margin-top: 23px !important;
+        max-width: 500px !important;
+        grid-column-gap: 78px !important;
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        grid-template-areas: "mba-device mbam2-device"
+                             "mba-links mbam2-links"
+                             "mba-display mbam2-display"
+                             "mba-chip mbam2-chip"
+                             "mba-cpu mbam2-cpu"
+                             "mba-gpu mbam2-gpu"
+                             "mba-memory mbam2-memory"
+                             "mba-storage mbam2-storage"
+                             "mba-battery mbam2-battery"
+                             "mba-camera mbam2-camera"
+                             "mba-audio mbam2-audio"
+                             "mba-weight mbam2-weight"
+                             "mba-keyboard mbam2-keyboard"
+                             "mbp13-device mbp14-and-16-device"
+                             "mbp13-links mbp14-and-16-links"
+                             "mbp13-display mbp14-and-16-display"
+                             "mbp13-chip mbp14-and-16-chip"
+                             "mbp13-cpu mbp14-and-16-cpu"
+                             "mbp13-gpu mbp14-and-16-gpu"
+                             "mbp13-memory mbp14-and-16-memory"
+                             "mbp13-storage mbp14-and-16-storage"
+                             "mbp13-battery mbp14-and-16-battery"
+                             "mbp13-camera mbp14-and-16-camera"
+                             "mbp13-audio mbp14-and-16-audio"
+                             "mbp13-weight mbp14-and-16-weight"
+                             "mbp13-keyboard mbp14-and-16-keyboard" !important;
+    }
+    .item-container{
+        height: 4200px !important;
+    }
+    .section-retail{
+        margin-top: 15px !important;
+    }
+    .section-bts-2022{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        max-width: 100% !important;
+    }
+    .section-bts-2022{
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    .section-bts-2022 .banner-wrapper{
+        max-width: 100% !important;
+    }
+    .section-bts-2022 .banner-wrapper .banner-container{
+        flex-direction: column !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .section-bts-2022 .flex-copy-wrapper .promo-copy-container{
+        margin: 36px auto 10px !important;
+        text-align: center !important;
+        padding: 0 40px ;
+    }
+    .section-bts-2022 .flex-copy-wrapper .promo-copy-container .typography-eyebrow{
+        margin: 6px 0 7px !important;
+    }
+    .section-bts-2022 .flex-copy-wrapper .promo-copy-container .typography-headline{
+        max-width: 280px !important;
+        margin: 0 auto !important;
+    }
+    .typography-headline{
+        font-size: 32px !important;
+        line-height: 1.125 !important;
+        font-weight: 600 !important;
+        
+    }
+    .section-bts-2022 .flex-copy-wrapper .promo-copy-container .promo-intro{
+        margin: 15px 0 3px !important;
+    }
+    .section-bts-2022 .flex-copy-wrapper .promo-copy-container .icon-wrapper{
+        align-self: center !important;
+    }
+    .section-bts-2022 .banner-wrapper .flex-image-wrapper{
+        min-height: auto !important;
+        overflow: visible !important;
+        margin-top: 2px;
+    }
+    .section-bts-2022 .banner-wrapper .flex-image-wrapper .banner-image{
+        width: 375px !important;
+        height: 278px !important;
+        background-size:  375px 278px !important;
+        background-repeat: no-repeat !important;
+        background-image: url("../img/img-mac/v20.jpeg") !important;
+        margin-left: 50px !important;
+    }
+}
+@media screen and(max-width: 1068px){
+    
+}
+.section-hero-product .section-content .product-wrapper .hero-image.hero-macbook-pro-image{
+    width: 922px;
+    height: 385px;
+    background-size: 922px 385px;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 50%;
+    margin-left: -461px;
+    margin-top: 15px;
+    background-image: url("https://www.apple.com/v/mac/home/bp/images/overview/hero/macbook_pro_13__e3r46kd69eoi_large.jpg");
+}
+.theme-dark{
+    background-color: #000;
+    color: #f5f5f7;
+}
+.section-hero-product{
+    padding: 110px 0 70px;
+    overflow: hidden;
+    margin-top: 0;
+}
+.section-hero-product .macbook-pro{
+    padding-top: 40px;
+}
+figure{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.section-compare{
+    text-align: center;
+    background-color: #fafafa;
+    padding-top: 110px;
+}
+.section-compare .section-content{
+    position: relative;
+}
+.typography-headline{
+    font-size: 48px;
+    line-height: 1.08;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+}
+.section-compare .gallery{
+    margin-top: 59px;
+}
+.tabnav{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    height: 3.17;
+    font-size: 17px;
+    text-align: center;
+    z-index: 1;
+}
+.tabnav-items{
+    margin: 0 34px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    padding: 0 0 3.176em;
+}
+.tabnav-item:first-child{
+    padding-left: 0;
+}
+.tabnav-item{
+    display: inline-block;
+    padding-left: 60px;
+    border-bottom: 1px solid #d2d2d7;
+    list-style: none;
+    outline: none;
+}
+.tabnav-link{
+    font-size: 17px;
+    line-height: 1;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    padding: 9px 0 11px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+    color: #6e6e73;
+    text-align: left;
+    display: block;
+    position: relative;
+    z-index: 0;
+}
+.tabnav-link.current{
+    pointer-events: none;
+    color: #1d1d1f;
+    text-decoration: none;
+    cursor: default;
+    z-index: 10;
+}
+.section-compare .gallery .tabnav-items{
+    display: flex;
+    justify-content: center;
+}
+.section-compare .gallery .item-container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks{
+    opacity: 0;
+}
+.section-compare .gallery .item-container .gallery-item{
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .compare-table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18px;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-row-gap: 39px;
+    grid-column-gap: 34px;
+    grid-template-areas: "mba-device mbam2-device mbp13-device mbp14-and-16-device"
+                         "mba-links mbam2-links mbp13-links mbp14-and-16-links"
+                         "mba-display mbam2-display mbp13-display mbp14-and-16-display"
+                         "mba-chip mbam2-chip mbp13-chip mbp14-and-16-chip"
+                         "mba-cpu mbam2-cpu mbp13-cpu mbp14-and-16-cpu"
+                         "mba-gpu mbam2-gpu mbp13-gpu mbp14-and-16-gpu"
+                         "mba-memory mbam2-memory mbp13-memory mbp14-and-16-memory"
+                         "mba-storage mbam2-storage mbp13-storage mbp14-and-16-storage"
+                         "mba-battery mbam2-battery mbp13-battery mbp14-and-16-battery"
+                         "mba-camera mbam2-camera mbp13-camera mbp14-and-16-camera"
+                         "mba-audio mbam2-audio mbp13-audio mbp14-and-16-audio"
+                         "mba-weight mbam2-weight mbp13-weight mbp14-and-16-weight"
+                         "mba-keyboard mbam2-keyboard mbp13-keyboard mbp14-and-16-keyboard";
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.device{
+    grid-area: mba-device;
+}
+.section-compare .gallery .item-container .gallery-item .device{
+    display: flex;
+    flex-direction: column;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.links{
+    grid-area: mba-links;
+}
+.section-compare .gallery .item-container .gallery-item .links{
+    margin-top: -34px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid #d2d2d7;
+}
+.row{
+    display: flex ;
+    flex-wrap: wrap ;
+    flex-direction: row ;
+    width: 100% ;
+}
+.row1{
+    display: flex ;
+    flex-wrap: wrap ;
+    flex-direction: row ;
+    width: 100% ;
+}
+.section-compare .gallery .item-container .gallery-item .cell{
+    flex-direction: column;
+    padding-top: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-compare .gallery .item-container .gallery-item .buy.cell.row, .section-compare .gallery .item-container .gallery-item .cta.cell.row{
+    display: none;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.display{
+    grid-area: mba-display;
+}
+.section-compare .gallery .item-container .gallery-item .cell.display{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.chip{
+    grid-area: mba-chip;
+}
+.section-compare .gallery .item-container .gallery-item .cell.chip{
+    padding-top: 8px;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.cpu{
+    grid-area: mba-cpu;
+}
+.section-compare .gallery .item-container .gallery-item .cell.gpu, .section-compare .gallery .item-container .gallery-item .cell.cpu{
+    position: relative;
+    padding-top: 15px;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.gpu{
+    grid-area: mba-gpu;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.memory{
+    grid-area: mba-memory;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.storage{
+    grid-area: mba-storage;
+}
+.section-compare .gallery .item-container .gallery-item .cell.storage{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.battery{
+    grid-area: mba-battery;
+}
+.section-compare .gallery .item-container .gallery-item .cell.battery{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.camera{
+    grid-area: mba-camera;
+}
+.section-compare .gallery .item-container .gallery-item .cell.camera{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.audio{
+    grid-area: mba-audio;
+}
+
+
+
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.weight{
+    grid-area: mba-weight;
+}
+.section-compare .gallery .item-container .gallery-item .cell.weight{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mba.keyboard{
+    grid-area: mba-keyboard;
+}
+.section-compare .gallery .item-container .gallery-item .cell.keyboard{
+    padding-top: 6px;
+    padding-bottom: 45px;
+    border-bottom: 1px solid #d2d2d7;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.device{
+    grid-area: mbam2-device;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.links{
+    grid-area: mbam2-links;
+}
+.section-compare .gallery .item-container .gallery-item .links{
+    margin-top: -34px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid #d2d2d7;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.display{
+    grid-area: mbam2-display;
+}
+.section-compare .gallery .item-container .gallery-item .cell.display{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.chip{
+    grid-area: mbam2-chip;
+}
+.section-compare .gallery .item-container .gallery-item .cell.chip{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.cpu{
+    grid-area: mbam2-cpu;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.gpu{
+    grid-area: mbam2-gpu;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.memory{
+    grid-area: mbam2-memory;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.storage{
+    grid-area: mbam2-storage;
+}
+.section-compare .gallery .item-container .gallery-item .cell.storage{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.battery{
+    grid-area: mbam2-battery;
+}
+.section-compare .gallery .item-container .gallery-item .cell.battery{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.camera{
+    grid-area: mbam2-camera;
+}
+.section-compare .gallery .item-container .gallery-item .cell.camera{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.audio{
+    grid-area: mbam2-audio;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.weight{
+    grid-area: mbam2-weight;
+}
+.section-compare .gallery .item-container .gallery-item .cell.weight{
+    padding-top: 0;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbam2.keyboard{
+    grid-area: mbam2-keyboard;
+}
+
+
+
+
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.device{
+    grid-area: mbp13-device;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.links{
+    grid-area: mbp13-links;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.display{
+    grid-area: mbp13-display;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.chip{
+    grid-area: mbp13-chip;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.cpu{
+    grid-area: mbp13-cpu;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.gpu{
+    grid-area: mbp13-gpu;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.memory{
+    grid-area: mbp13-memory;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.storage{
+    grid-area: mbp13-storage;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.battery{
+    grid-area: mbp13-battery;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.camera{
+    grid-area: mbp13-camera;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.audio{
+    grid-area: mbp13-audio;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.weight{
+    grid-area: mbp13-weight;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp13.keyboard{
+    grid-area: mbp13-keyboard;
+}
+
+
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.device{
+    grid-area: mbp14-and-16-device;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.links{
+    grid-area: mbp14-and-16-links;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.display{
+    grid-area: mbp14-and-16-display;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.chip{
+    grid-area: mbp14-and-16-chip;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.cpu{
+    grid-area: mbp14-and-16-cpu;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.gpu{
+    grid-area: mbp14-and-16-gpu;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.memory{
+    grid-area: mbp14-and-16-memory;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.storage{
+    grid-area: mbp14-and-16-storage;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.battery{
+    grid-area: mbp14-and-16-battery;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.camera{
+    grid-area: mbp14-and-16-camera;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.audio{
+    grid-area: mbp14-and-16-audio;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.weight{
+    grid-area: mbp14-and-16-weight;
+}
+.section-compare .gallery .item-container .gallery-item.notebooks .mbp14-and-16.keyboard{
+    grid-area: mbp14-and-16-keyboard;
+}
+.section-compare .gallery .item-container .gallery-item .device .image-wrapper{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 12px;
+    
+}
+.compare-table .image-compare-mba{
+  width:  183px;
+  height: 106px;
+  background-size: 183px 106px;
+    
+  
+    
+}
+.section-compare .gallery .item-container .gallery-item .device .device-content{
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+}
+.section-compare .gallery .item-container .gallery-item .device .device-content .image-swatches{
+    margin-top: 11px;
+    margin-bottom: 31px;
+}
+.section-compare .image-compare-swatches-three-colors{
+    width: 50px;
+    height: 14px;
+    background-size: 50px 14px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v2.png");
+}
+.typography-compare-eyebrow{
+    font-size: 24px;
+    line-height: 1.666;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-compare .moustache{
+    font-weight: 500;
+    margin-top: 4px;
+}
+.typography-body-reduced{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-compare .gallery .item-container .gallery-item .device .device-content .pricing{
+    margin-top: auto;
+    padding-top: 8px;
+}
+.button-reduced{
+    font-size: 12px;
+    line-height: 1.33;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    min-width: 23px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.section-compare .gallery .item-container .gallery-item .cell .size{
+    margin-top: 6px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.typography-compare-eyebrow-reduced{
+    font-size: 21px;
+    line-height: 1.19;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-compare .gallery .item-container .gallery-item .cell .image-icon{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+}
+.section-compare .image-compare-icon-m1{
+    width: 48px;
+    height: 44px;
+    background-size: 48px 44px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/icon-chip-M1.png");
+}
+.section-compare .image-compare-icon-unified-memory{
+    width: 48px;
+    height: 44px;
+    background-size: 48px 44px;
+    background-image: url("../img/img-mac/v3.png");
+}
+.section-compare .image-compare-icon-battery{
+    width: 48px;
+    height: 44px;
+    background-size: 48px 44px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v4.png");
+}
+.section-compare .image-compare-icon-camera {
+    width: 48px;
+    height: 44px;
+    background-size: 48px 44px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v6.png");
+}
+.section-compare .image-compare-icon-mic {
+    width: 48px;
+    height: 44px;
+    background-size: 48px 44px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v7.png");
+}
+.section-compare .image-compare-icon-touchid{
+    width: 48px;
+    height: 44px;
+    background-size: 48px 44px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v8.png");
+}
+.section-compare .image-compare-swatches-four-colors {
+    width: 69px;
+    height: 14px;
+    background-size: 69px 14px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v9.png");
+}
+.section-compare .image-compare-mbam2 {
+    width: 178px;
+    height: 167px;
+    background-size: 178px 167px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v10.png");
+}
+.section-compare .image-compare-icon-m2{
+    width: 48px;
+    height: 44px;
+    background-size: 48px 44px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v11.png");
+}
+.section-compare .image-compare-swatches-two-colors{
+    width: 32px;
+    height: 14px;
+    background-size: 32px 14px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v12.png");
+}
+.section-compare .image-compare-mbp13{
+    width: 188px;
+    height: 167px;
+    background-size: 188px 167px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v13.png");
+}
+.section-compare .image-compare-mbp14-and-16{
+    width: 239px;
+    height: 167px;
+    background-size: 239px 167px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v14.png");
+}
+.section-compare .image-compare-icon-m1-pro-max{
+    width: 90px;
+    height: 40px;
+    background-size: 90px 40px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v15.png");
+}
+
+
+.section-retail{
+    margin-top: 50px;
+}
+.section-bts-2022{
+    overflow: hidden;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.section-bts-2022 .banner-wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1440px;
+    overflow: hidden;
+}
+.section-bts-2022 .banner-wrapper .banner-container{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background: #f2f2f2;
+    margin-left: 2.083%;
+    margin-right: 2.083%;
+    justify-content: space-between;
+}
+.section-bts-2022 .flex-copy-wrapper{
+    display: flex;
+}
+.large-6{
+    flex-basis: 50%;
+    max-width: 50%;
+}
+.section-bts-2022 .flex-copy-wrapper .promo-copy-container{
+    position: relative;
+    z-index: 5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    margin-left: 101px;
+    margin-right: 0;
+    padding: 40px 0;
+}
+.section-bts-2022 .flex-copy-wrapper .promo-copy-container .typography-eyebrow{
+    margin: 3px 0 8px;
+}
+.typography-eyebrow{
+    font-size: 24px;
+    line-height: 1.66;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-bts-2022 .flex-copy-wrapper .promo-copy-container .promo-intro{
+    color: #ca2266;
+    margin: 33px 0 7px;
+}
+.section-retail .promo-intro{
+    margin-top: 20px;
+    font-size: 17px;
+    line-height: 1.47;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.typography-product-lockup{
+    font-size: 21px;
+    line-height: 1.38;
+    font-weight: 400;
+}
+.section-bts-2022 .flex-copy-wrapper .promo-copy-container .icon-wrapper{
+    align-self: flex-start;
+}
+.section-retail .icon-wrapper{
+    font-size: 17px;
+    line-height: 1.47;
+    font-weight: 400;
+    color: #06c;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.section-bts-2022 .banner-wrapper .flex-image-wrapper{
+    min-height: 594px;
+    z-index: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-bts-2022 .banner-wrapper .flex-image-wrapper .banner-image{
+    width: 690px;
+    height: 594px;
+    background-size: 690px 594px;
+    background-repeat: no-repeat;
+    background-image: url("../img/img-mac/v20.jpeg");
+}
+.c1{
+   
+        background-size: 400px !important;
+        background-repeat: no-repeat !important;
+        
+        
+        background-image: url("../img/img-store/v11.jpeg") !important;
+}
+.c2{
+    background-size: 400px !important;
+    background-repeat: no-repeat !important;
+    background-image: url("../img/img-store/v12.jpeg")!important;
+}
+.c3{
+    background-size: 400px !important;
+    background-repeat: no-repeat !important;
+    background-image: url("../img/img-store/v13.jpeg")!important;
+}
+.c4{
+    background-size: 400px !important;
+    background-repeat: no-repeat !important;
+    background-image: url("../img/img-store/v14.jpeg")!important;
+}
+.c5{
+    background-size: 400px !important;
+    background-repeat: no-repeat !important;
+    background-image: url("../img/img-store/v15.jpeg")!important;
+}
+.c6{
+    background-size: 400px !important;
+    background-repeat: no-repeat !important;
+    background-image: url("../img/img-store/v16.jpeg")!important;
+}
+.c7{
+    background-size: 400px !important;
+    background-repeat: no-repeat !important;
+    background-image: url("../img/img-store/v17.jpeg")!important;
+}
+.rs-page-content{
+    min-height: 350px;
+}
+.rs-bag{
+    position: relative;
+}
+@media screen and (min-width: 735px){
+    .rs-bag .rs-zoom-content{
+        width: 57.647rem !important;
+    }
+}
+
+.rs-bag-content{
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+.rs-bag-header{
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    padding-bottom: 2px;
+}
+.rs-bag-headermessage{
+    padding-top: 13px;
+}
+.rs-iteminfos{
+    list-style: none;
+    margin: 4.176rem 0 20px;
+}
+.rs-iteminfo{
+    margin-bottom: 78px;
+    padding-bottom: 76px;
+    border-bottom: 1px solid #d2d2d7;
+}
+.large-3{
+    flex-basis: 25%;
+    max-width: 25%;
+}
+.rs-iteminfo-image{
+    width: 203px;
+    text-align: center;
+    margin-top: 2px;
+}
+.rs-iteminfo-image img{
+    max-width: 203px;
+    max-height: 203px;
+    width: auto;
+    height: auto;
+    float: none;
+}
+.large-9{
+    flex-basis: 75%;
+    max-width: 75%;
+}
+.rs-iteminfo-details{
+    display: flex;
+    flex-wrap: wrap;
+}
+.rs-iteminfo-wrapper{
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+.rs-iteminfo-price, .rs-iteminfo-quantily-selector label, .rs-iteminfo-title{
+    font-size: 24px;
+    line-height: 1;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #1d1d1f;
+}
+.rs-iteminfo-title a{
+    color: #1d1d1f;
+    overflow-wrap: break-word;
+    display: inline-block;
+}
+.large-last{
+    margin-left: auto;
+}
+.rs-iteminfo-pricedetails{
+    width: 36%;
+}
+.rs-iteminfo-price{
+    padding-left: 0.588rem;
+    text-align: right;
+}
+.rs-iteminfo-pricelineitemwrapper{
+    width: 99.3%;
+}
+.rs-summary-content{
+    margin-bottom: 5px;
+}
+.rs-iteminfo-pricelineitemwrapper .rs-summary-iteminfopricelineitem:first-child{
+    margin-top: 14px;
+}
+.rs-summary-labelandvaluecontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.rs-iteminfo-pricelineitemwrapper .rs-summary-iteminfopricelineitem .rs-summary-label, .rs-iteminfo-pricelineitemwrapper .rs-summary-iteminfopricelineitem .rs-summary-value{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.rs-summary-label{
+    z-index: 2;
+    padding-left: 20px;
+}
+.rs-iteminfo-pricelineitemwrapper .rs-summary-iteminfopricelineitem .rs-summary-value{
+    display: flex;
+    flex-direction: column-reverse;
+    white-space: nowrap;
+}
+.rs-summary-value{
+    text-align: right;
+    padding-left: 20px;
+}
+.nowrap{
+    display: inline-block;
+    text-decoration: inherit;
+    white-space: nowrap;
+}
+.rs-summary-content{
+    margin-bottom: 5px;
+}
+.rs-summary-labelandvaluecontainer{
+    display: flex;
+    justify-content: space-between;
+}
+.rs-summary-label, .rs-summary-value{
+    font-size: 17px;
+    line-height: 1.47;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    flex-grow: 1;
+}
+.rs-iteminfo-actions-left{
+    margin-top: 12px;
+}
+.rs-summary-value{
+    text-align: right;
+    padding-left: 20px;
+}
+.rs-iteminfo-actions-right{
+    text-align: right;
+    margin-top: 12px;
+}
+.r-fade-transition-enter-done{
+    opacity: 1;
+}
+[data-core-fade-transition-wrapper]{
+    opacity: 1;
+    transition-property: opacity;
+    transition-timing-function: ease-in-out;
+    transition-duration: .4s;
+}
+.rs-item-inline-recommendations{
+   
+    margin-top: 21px;
+}
+.rs-item-inline-recommendation{
+    border-top: none;
+    margin-top: 0;
+}
+.rs-iteminfo-child{
+    margin-top: 21px;
+    padding-top: 21px;
+    border-top: 1px solid #d2d2d7;
+}
+.as-icondetails{
+    font-size: 14px;
+    line-height: 1.4;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.rs-iteminfo-child-image{
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 1px;
+}
+.rs-iteminfo-child-image img{
+    width: 18px;
+    height: auto;
+    margin-top: 1px;
+}
+.rs-inline-recommendation .as-icondetails-details{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.rs-iteminfo-child .as-icondetails-details{
+    margin-left: 47px;
+    
+}
+.as-icondetails-details{
+    display: inline-block;
+    margin-left: 28px;
+}
+.rs-iteminfo-child-title{
+    display: inline-block;
+    margin-top: 0px;
+}
+.rs-iteminfo-child-price, .rs-iteminfo-child-title{
+    font-size: 17px;
+    line-height: 1.47;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.rs-inline-recommendation .rs-iteminfo-child-desc{
+    order: 1;
+    margin-top: 0;
+}
+.rs-iteminfo-child-tagline{
+    order: 1;
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.42;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 2px;
+    margin-bottom: -2px;
+}
+.rs-iteminfo-child .rs-iteminfo-more-details-link{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 0;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.rs-iteminfo-child-actions{
+    float: right;
+    text-align: right;
+    flex: 1;
+}
+.rs-iteminfo-child-actions .rs-iteminfo-child-actions-button{
+    font-size: 17px;
+    line-height: 1.47;
+    font-weight: 400;
+    text-align: right;
+    margin-top: 0;
+    font-family:  "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.rs-item-fulfillment-columns{
+    margin-top: 1px;
+    position: relative;
+}
+.rs-fulfillment-callout-title{
+    margin-bottom: 8px;
+}
+
+.rs-fulfillment-callout-title .rs-fulfillment-callout-title-text{
+    font-weight: 600;
+}
+.rs-item-fulfillment-columns{
+    margin-top: 1px;
+    position: relative;
+}
+.rs-item-fulfillment.rs-has-pickup .rs-item-delivery{
+    max-width: 310px;
+}
+.rs-item-fulfillment .rs-item-delivery{
+    margin-bottom: 10px;
+}
+.rs-item-fulfillment .as-svgicon-container.as-icondetails-icon{
+    margin-top: 11px;
+}
+.as-icondetails-icon.as-svgicon-container{
+    transform: translateY(-50%);
+    
+}
+.as-svgicon, .as-svgicon-container{
+    display: block;
+}
+.as-svgicon-container .as-svgicon-reduced{
+    margin: -4px;
+}
+.rs-iteminfo-child .as-icondetails{
+   
+    display: block;
+}
+.rs-item-pickup{
+    position: absolute;
+    top: 0;
+    left: 330px;
+    right: 24px;
+}
+.as-icondetails-icon{
+    position: absolute;
+}
+.rs-macdetails{
+    margin-top: 10px;
+}
+.rs-macdetails-label{
+    font-size: 14px;
+    line-height: 1.4;
+    font-weight: 600;
+}
+.list-title{
+    color: #1d1d1f;
+}
+.list{
+    box-sizing: border-box;
+    color: #1d1d1f;
+}
+.rs-macdetails-label+ul{
+    margin-bottom: 20px;
+    list-style-type: disc;
+}
+.rs-macdetails li{
+    font-size: 14px;
+    line-height: 1.4;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.list li{
+    margin-top: 0.4em;
+}
+.rs-summary{
+    margin-top: 40px;
+}
+.large-offset-3{
+    margin-left: 25%;
+}
+.rs-summary-content{
+    margin-bottom: 5px;
+}
+.rs-summary-total{
+    border-top: 1px solid #d2d2d7;
+    margin-top: 16px;
+    padding-top: 19px;
+}
+.rs-summary-total .rs-summary-label, .rs-summary-total .rs-summary-value{
+    font-size: 24px;
+    line-height: 1.6;
+    font-weight: 600;
+    color: #1d1d1f;
+}
+@media screen and(max-width: 1023px) and (max-device-width:736px)
+{
+    .as-l-container{
+        margin-left: auto !important;
+        margin-right: auto !important;
+        width: 87.5% !important;
+    }
+    .rs-bag-content{
+        padding-top: 50px !important;
+        margin-bottom: 80px !important;
+    }
+    .small-12{
+        flex-basis: 100% !important;
+        max-width: 100% !important;
+    }
+    .rs-bag-header{
+        font-size: 28px !important;
+    }
+}
+@media screen and (max-width: 735px){
+    .rs-bag-header{
+        font-size: 25px ;
+        line-height: 1.1;
+        font-weight: 600;
+        padding-bottom: 4px;
+        font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    }
+    .rs-bag-headermessage{
+        padding-top: 10px;
+    }
+    .rs-iteminfos{
+        margin-top: 3.82rem;
+    }
+    .rs-bag-item:last-child .rs-iteminfo{
+        padding-bottom: 55px;
+    }
+    .rs-iteminfo-image img{
+        float: none;
+    }
+    .rs-iteminfo-title-wrapper{
+        padding-right: 0;
+    }
+    .rs-iteminfo-title{
+        font-size: 21px;
+        font-weight: 600;
+        line-height: 1.19;
+    }
+    .rs-iteminfo-pricedetails{
+        width: 60%;
+    }
+    .rs-iteminfo-price{
+        font-size: 21px;
+        font-weight: 600;
+        line-height: 1.19;
+    }
+    .rs-summary-label{
+        padding-right: 10px;
+    }
+    .rs-summary-labelandvaluecontainer .rs-summary-label, .rs-summary-labelandvaluecontainer .rs-summary-value{
+        margin-bottom: 0;
+    }
+    .rs-iteminfo-actions-left{
+        margin-top: 0;
+        flex-grow: 1;
+    }
+    .rs-iteminfo-actions-right{
+        margin-top: 0;
+        flex-grow: 1;
+    }
+    .rs-iteminfo-child .as-icondetails-details{
+        margin-left: 25px;
+    }
+   
+    .rs-item-pickup{
+        margin-top: 20px;
+        position: static;
+    }
+    .rs-summary{
+        margin-top: 12px ;
+    }
+    .small-offset-0{
+        margin-left: 0;
+    }
+    .rs-summary-total .rs-summary-label, .rs-summary-total .rs-summary-value{
+        font-size: 21px;
+        line-height: 1.19;
+    }
+    .bt1{
+        width: 150px !important;
+    }
+    .rs-bag-installment-actions-label{
+        width: 200px !important;
+        font-size: 21px !important;
+        
+    }
+    .bt2{
+        margin-left: 25px !important;
+    }
+    .ribbon-content{
+        margin-left: auto;
+        margin-right: auto;
+        width: 87.5% !important;
+        text-align: center !important;
+    }
+    
+}
+.large-offset-3{
+    margin-left: 25%;
+}
+.rs-bag-installment-actions-label{
+    padding: 66px 0 23px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.rs-bag-installment-actions .rs-bag-actions-box-title{
+    font-size: 24px;
+    line-height: 1.166;
+    font-weight: 600;
+}
+
+.bt1{
+    width: 300px;
+    float: none;
+    margin: 7px auto;
+    height: 45px;
+}
+.rs-bag-installment-actions{
+    border-radius: 12px;
+    background-color:  #f5f5f7;
+    text-align: center;
+    padding: 24px 32px 28px;
+}
+.ribbon{
+    overflow: hidden; 
+}
+.ribbon .ribbon-content-wrapper{
+    background-color: #f5f5f7;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.ribbon .ribbon-content{
+    color: #1d1d1f;
+    font-size: 12px !important;
+    line-height: 1.42;
+    font-weight: 400;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.ribbon-content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.rs-root-reveal{
+    min-height: 0;
+    opacity: 1;
+    transition: .3s ease-in .3s;
+}
+.rf-cto-summary{
+    position: fixed;
+    width: 100%;
+    min-height: 130px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #f5f5f7;
+    border-top: 1px solid #d2d2d7;
+    z-index: 3;
+}
+.rf-cto-summarywrapper{
+    justify-content: space-between;
+}
+
+.rf-cto-summary .rf-cto-summary-fulfillment{
+    padding-bottom: 20px;
+}
+.rf-fulfillment-quote{
+    padding-top: 20px;
+}
+.rf-fulfillment-quote>div{
+    padding-left: 16px;
+}
+.rf-dude-quote{
+    display: flex;
+    align-items: flex-start;
+    padding-top: 16px;
+}
+.rf-dude-quote .rf-dude-quote-icon.as-icondetails-icon1{
+    margin-top: 2px;
+    margin-right: 12px;
+}
+.rf-dude-quote .as-icondetails-icon svg{
+    display: block;
+    margin-left: -4px;
+}
+.rf-dude-quote-info{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+}
+.rf-dude-quote-default .rf-dude-quote-label{
+    font-weight: 600;
+}
+.rf-pickup-quote-info{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+}
+.rf-pickup-quote-label{
+    font-weight: 600;
+}
+.r1{
+    float: right
+}
+.rf-cto-summary-purchaseinfo{
+    padding-top: 24px;
+    padding-bottom: 20px;
+    display: flex;
+    text-align: right;
+}
+.rc-prices{
+    font-size: 24px;
+    line-height: 1.16;
+    font-weight: 600;
+    display: inline;
+}
+.button-block{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+    margin-left: 15px;
+}
+.rf-configuration-container{
+    margin-top: 50px;
+}
+.rs-cto-side-panel{
+    height: auto;
+}
+.rs-cto-main-panel{
+    width: 490px;
+    height: auto;
+    padding: 20px 0 14px;
+}
+.rf-configuration-sticky{
+    position: sticky;
+    top: 0;
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+.rf-configuration-hero-image{
+    width: 410px;
+    height: auto;
+    margin-top: 25px;
+    cursor: pointer;
+    text-align: center;
+    padding-left: 10px;
+}
+.rf-configuration-viewgallery{
+    width: 100%;
+    max-width: 490px;
+    text-align: center;
+    padding: 22px 0;
+}
+.typography-body-reduced{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+}
+.rf-configuration-viewgallery .rf-configuration-viewgallerybtn{
+    margin-bottom: 35px;
+}
+.as-buystrip{
+    display: flex;
+    text-align: center;
+    margin: 14px 0 26px;
+    width: 100%;
+}
+.as-buystrip-item{
+    list-style: none;
+    flex: 1;
+    color: #1d1d1f;
+}
+.as-svgicon, .as-svgicon-container{
+    display: block;
+}
+.as-buystrip-title{
+    font-size: 12px;
+    line-height: 1.33;
+    font-weight: 600;
+    margin: 6px 0 0;
+}
+.as-svgicon-container .as-svgicon-base{
+    margin: -6px;
+}
+.as-buystrip .as-svgicon{
+    display: inline-block;
+}
+.rf-configuration-sticky .rf-flagship-chatcontent .as-chat-buyflow{
+    border-top: 1px solid #d2d2d7;
+}
+.rf-flagship-chatcontent .as-chat{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+    text-align: center;
+}
+.as-chat-buyflow{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding-left: 0;
+    padding-top: 19px;
+    
+}
+.as-chat-buyflow .as-svgicon{
+    display: inline-block;
+}
+.as-chat-buyflow-container{
+    font-size: 12px;
+    line-height: 1.33;
+    font-weight: 400;
+    padding: 6px 12px 0;
+}
+.as-chat-buyflow-title{
+    font-weight: 600;
+    color: #1d1d1f;
+}
+.rf-flagship-chatcontent .as-chat .as-buyflow-content{
+    text-align: left;
+}
+.as-chat-buyflow-content{
+    padding-top: 5px;
+}
+.typography-manifesto{
+    font-size: 32px;
+    line-height: 1.25;
+    font-weight: 600;
+}
+.typography-headline-reduced{
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+}
+.rf-configuration-productsummary{
+    margin-bottom: 35px;
+}
+.rf-configuration-subheader{
+    list-style: none;
+    margin: 0;
+    padding-top: 12px;
+}
+.typography-body-reduced{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+}
+.rf-configuration-subheader li{
+    margin-bottom: 11px;
+}
+.rf-tradeupbanner{
+    padding: 11px 0 27px;
+    border-top: 1px solid #d2d2d7;
+}
+.rf-tradeupbanner .rf-tradeupbanner-header{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 600;
+}
+.rf-tradeupbanner-header{
+    padding: 10px 0 12px;
+}
+.rf-tradeupbanner .rf-tradeupbanner-message-row{
+    flex-direction: column;
+}
+.rf-tradeupbanner-message-row{
+    display: flex;
+    margin: 0;
+    align-items: flex-start;
+}
+.rf-tradeupbanner .rf-tradeupbanner-message{
+    margin: 0;
+}
+.rf-tradeupbanner-message{
+    font-size: 14px;
+    line-height: 1.42;
+    font-weight: 400;
+    flex: 3;
+}
+.rf-tradeupbanner .rf-tradeupbanner-message-desc{
+    padding-bottom: 4px;
+}
+.rf-tradeupbanner-message-desc{
+    margin-top: 0;
+    padding-right: 6px;
+}
+.rf-tradeupbanner-actions{
+    font-size: 14px;
+    line-height: 1.42;
+    margin-top: 3px;
+    min-width: 16%;
+    flex: 1;
+}
+.rf-tradeupbanner .rf-tradeupbanner-actions{
+    font-weight: 400;
+    text-align: left;
+}
+.rf-configuration-main{
+    border-top: 1px solid #d2d2d7;
+}
+.rf-configuration-optiongroup{
+    margin-top: 17px;
+}
+.rf-configuration-optiongroup-header span{
+    font-weight: 600;
+    margin-top: 20px;
+}
+.rf-configuration-learnmorebtn{
+    white-space: normal;
+    text-align: left;
+    margin-top: 0;
+}
+.form-selector-group{
+    list-style: none;
+    width: auto;
+    margin-top: 8px;
+}
+.form-selector{
+    position: relative;
+    display: flex;
+}
+.form-selector-group .form-selector{
+    margin-top: 0.8rem;
+}
+.form-selector-input{
+    position: absolute;
+    opacity: 0;
+}
+input{
+    margin: 0;
+    padding: 0;
+}
+.form-selector .form-selector-input:checked~.form-selector-label{
+    border-color: #0071e3;
+}
+.form-selector-label{
+    font-size: 17px;
+    line-height: 1.23;
+    font-weight: 400;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    border-width: 1px;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    text-align: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    min-height: 4.88rem;
+}
+.form-selector .form-selector-label{
+    color: #1d1d1f;
+    border-color: #d2d2d7;
+    background-color: hsla(0, 0%, 100%, .8);
+}
+.form-selector-input:checked~.form-selector-label{
+    outline: none;
+    border-width: 2px;
+    padding: 14px;
+}
+.form-selector-label .row{
+    justify-content: space-between;
+}
+.form-selector-label .form-selector-left-col{
+    position: relative;
+    align-self: center;
+    text-align: left;
+    margin-top: 10px;
+}
+.form-selector-label .form-selector-title{
+    font-weight: 600;
+    
+}
+input[type="radio"]#control_05:checked + label{
+    background: #0071e3;
+}
+
+
+.middle {
+    width: 100%;
+
+}
+
+.middle input[type=radio] {
+    display: none;
+    
+}
+.middle input[type=radio]:checked + .box {
+    
+    border: 1px solid #0071e3;
+    border-radius: 12px;
+}
+.middle input[type=radio]:checked + .box span {
+    color: #1d1d1f;
+    
+}
+.middle input[type=radio]:checked + .box span:before {
+    transform: translateY(0px);
+    opacity: 1;
+}
+.middle .box {
+    width: 400px;
+    height: 80px;
+    background-color: #fff;
+    border: 1px solid #d2d2d7;
+    border-radius: 12px;
+    transition: all 250ms ease;
+    will-change: transition;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    
+    font-weight: 400;
+}
+.middle .box:active {
+    transform: translateY(10px);
+}
+.middle .box span {
+    position: absolute;
+    transform: translate(0, 28px);
+    left: 0;
+    right: 0;
+    transition: all 300ms ease;
+    font-size: 18px;
+    user-select: none;
+    color: #000000;
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+
+.middle1 {
+    width: 100%;
+
+}
+
+.middle1 input[type=radio] {
+    display: none;
+    
+}
+.middle1 input[type=radio]:checked + .box1 {
+    
+    border: 1px solid #0071e3;
+    border-radius: 12px;
+}
+.middle1 input[type=radio]:checked + .box1 span {
+    color: #1d1d1f;
+    
+}
+.middle1 input[type=radio]:checked + .box1 span:before {
+    transform: translateY(0px);
+    opacity: 1;
+}
+.middle1 .box1 {
+    width: 400px;
+    height: 80px;
+    background-color: #fff;
+    border: 1px solid #d2d2d7;
+    border-radius: 12px;
+    transition: all 250ms ease;
+    will-change: transition;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    
+    font-weight: 400;
+}
+.middle1 .box1:active {
+    transform: translateY(10px);
+}
+.middle1 .box1 span {
+    position: absolute;
+    transform: translate(0, 28px);
+    left: 0;
+    right: 0;
+    transition: all 300ms ease;
+    font-size: 18px;
+    user-select: none;
+    color: #000000;
+    text-align: left;
+    margin-left: 20px;
+}
